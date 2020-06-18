@@ -1,0 +1,46 @@
+This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).
+Accession #: ds102
+Description: Flanker task (event-related)
+
+The "NYU Slow Flanker" dataset comprises data collected from 26 healthy
+adults (age and sex included in Slow_Flanker_age_sex.txt) while they 
+performed a slow event-related Eriksen Flanker task.
+
+**Please note that all data have been uploaded regardless of quality
+it is up to the user to check for data quality (movement etc).
+
+On each trial (inter-trial interval (ITI) varied between 8 s and 14 s;
+mean ITI=12 s),participants used one of two buttons on a response pad
+to indicate the direction of a central arrow in an array of 5 arrows.
+In congruent trials the flanking arrows pointed in the same direction
+as the central arrow (e.g., < < < < <), while in more demanding
+incongruent trials the flanking arrows pointed in the opposite
+direction (e.g., < < > < <). 
+
+Subjects performed two 5-minute blocks, each containing 12 congruent
+and 12 incongruent trials, presented in a pseudorandom order.
+
+Functional imaging data were acquired using a research dedicated Siemens
+Allegra 3.0 T scanner, with a standard Siemens head coil, located at the
+NYU Center for Brain Imaging.
+
+We obtained 146 contiguous echo planar imaging (EPI) whole-brainfunctional
+volumes (TR=2000 ms; TE=30 ms; flip angle=80, 40 slices, matrix=64x64; FOV=192 mm; acquisition voxel size=3x3x4mm) during each of the two flanker task blocks. A high-resolution T1-weighted anatomical image was also acquired using a magnetization prepared gradient echo sequence (MPRAGE, TR=2500 ms; TE=
+3.93 ms; TI=900 ms; flip angle=8; 176 slices, FOV=256 mm).
+
+Please cite one of the following references if you use these data:
+
+Kelly, A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2008). Competition between functional brain networks mediates behavioral variability. Neuroimage, 39(1):527-37
+
+Mennes, M., Kelly, C., Zuo, X.N., Di Martino, A., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2010). Inter-individual differences in resting-state functional connectivity predict task-induced BOLD activity. Neuroimage, 50(4):1690-701. doi: 10.1016/j.neuroimage.2010.01.002. Epub 2010 Jan 15. Erratum in: Neuroimage. 2011 Mar 1;55(1):434
+
+Mennes, M., Zuo, X.N., Kelly, C., Di Martino, A., Zang, Y.F., Biswal, B., Castellanos, F.X., Milham, M.P. (2011). Linking inter-individual differences in neural activation and behavior to intrinsic brain dynamics. Neuroimage, 54(4):2950-9. doi: 10.1016/j.neuroimage.2010.10.046
+
+This dataset is made available under the Public Domain Dedication and License 
+v1.0, whose full text can be found at 
+http://www.opendatacommons.org/licenses/pddl/1.0/. 
+We hope that all users will follow the ODC Attribution/Share-Alike 
+Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); 
+in particular, while not legally required, we hope that all users 
+of the data will acknowledge the OpenfMRI project and NSF Grant 
+OCI-1131441 (R. Poldrack, PI) in any publications.

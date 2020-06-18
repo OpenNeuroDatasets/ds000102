@@ -1,0 +1,7 @@
+Unrevisioned 
+    - Initial release
+
+2.0.0   20160527
+    - Repackaged in BIDS format
+    - TRs fixed in BOLD nifti headers (pixdim[4])
+
